@@ -1,0 +1,27 @@
+2022-06-14 17:17:14,938 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 17.0.3.1 on YUSA with PID 7580 (C:\Users\yusai\Desktop\spring\target\classes started by yusai in C:\Users\yusai\Desktop\spring)
+2022-06-14 17:17:14,943 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-14 17:17:14,944 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-14 17:17:23,403 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 9.626 seconds (JVM running for 10.551)
+2022-06-14 17:18:21,699 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-14 17:18:22,068 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-14 17:44:39,309 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 17.0.3.1 on YUSA with PID 12720 (C:\Users\yusai\Desktop\spring\target\classes started by yusai in C:\Users\yusai\Desktop\spring)
+2022-06-14 17:44:39,319 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-14 17:44:39,322 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-14 17:44:48,216 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 9.908 seconds (JVM running for 10.755)
+2022-06-14 17:48:03,111 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 17.0.3.1 on YUSA with PID 12640 (C:\Users\yusai\Desktop\spring\target\classes started by yusai in C:\Users\yusai\Desktop\spring)
+2022-06-14 17:48:03,117 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-14 17:48:03,118 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-14 17:48:13,085 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 10.97 seconds (JVM running for 11.698)
+2022-06-14 23:12:03,677 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 17.0.3.1 on YUSA with PID 5720 (C:\Users\yusai\Desktop\spring\target\classes started by yusai in C:\Users\yusai\Desktop\spring)
+2022-06-14 23:12:03,686 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-14 23:12:03,688 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-14 23:12:15,561 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 13.663 seconds (JVM running for 15.041)
+2022-06-14 23:12:25,013 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-14 23:12:25,563 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-14 23:13:29,175 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-14 23:13:29,188 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-14 23:13:49,585 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get product by id
+2022-06-14 23:15:00,226 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service called: Delete products
+2022-06-14 23:15:00,372 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products deleted successfully
+2022-06-14 23:15:06,532 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-14 23:15:06,542 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found

@@ -1,0 +1,802 @@
+2022-06-16 00:02:40,852 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 00:02:40,914 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 00:05:49,915 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:05:49,927 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:05:49,943 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:05:49,954 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:06:18,639 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:06:18,650 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:06:18,659 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:06:18,668 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:06:32,296 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:06:32,305 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:06:32,324 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:06:32,338 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:06:53,412 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:06:53,419 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:06:53,427 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 00:06:53,464 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 00:30:20,562 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:30:20,578 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:30:20,611 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:30:20,624 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:30:20,709 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:30:20,718 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:30:20,729 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:30:20,739 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:30:20,820 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:30:20,831 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:30:20,844 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:30:20,853 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:30:20,899 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:30:20,905 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:30:20,913 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:30:20,924 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:30:26,012 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 00:30:26,019 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 00:30:26,201 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 00:30:26,209 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 00:31:12,693 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:31:12,701 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:31:12,738 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:31:12,778 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:31:15,064 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:31:15,074 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:31:15,187 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:31:15,191 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:31:52,178 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:31:52,186 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:31:52,227 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:31:52,231 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:31:53,693 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:31:53,701 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:31:53,802 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:31:53,810 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:31:59,572 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 00:31:59,577 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 00:31:59,588 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 00:31:59,593 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 00:32:14,429 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:32:14,439 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:32:37,488 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:32:37,499 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:32:37,897 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:32:37,904 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:32:42,002 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:32:42,010 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:32:42,126 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:32:42,136 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:33:04,396 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:33:04,412 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:33:04,449 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:33:04,456 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:33:34,495 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 00:33:34,503 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 00:33:34,513 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:33:34,522 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:35:29,008 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:35:29,015 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:35:29,025 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:35:29,030 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:36:01,233 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:36:01,241 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:36:01,250 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:36:01,261 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:36:04,703 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:36:04,714 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:36:04,820 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:36:04,825 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:36:38,414 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 00:36:38,426 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 00:36:38,510 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 00:36:38,519 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 00:36:55,340 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:36:55,708 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:36:55,722 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:36:55,734 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:40:45,427 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:40:45,434 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:40:45,457 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:40:45,462 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:42:10,423 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:42:10,423 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:42:10,454 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:42:10,454 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:42:31,425 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 00:42:31,440 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 00:42:31,448 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 00:42:31,457 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 00:42:34,900 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:42:34,911 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:42:34,990 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:42:34,994 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:42:48,402 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:42:48,409 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:42:48,447 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:42:48,451 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:42:50,359 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:42:50,366 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:42:50,384 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:42:50,394 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:43:09,715 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:43:09,726 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:43:09,743 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:43:09,752 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:43:11,293 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 00:43:11,305 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 00:43:11,469 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 00:43:11,476 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 00:43:38,157 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:43:38,164 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:43:38,199 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:43:38,206 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:43:41,219 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:43:41,224 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:43:41,292 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:43:41,297 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:44:10,052 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:44:10,058 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:44:10,110 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:44:10,115 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:44:11,291 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:44:11,460 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:44:12,218 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:44:12,233 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:46:52,143 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 00:46:52,156 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 00:46:52,188 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:46:52,195 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:47:03,816 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:47:03,825 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:47:03,846 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:47:03,854 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:47:30,234 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:47:30,248 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:47:30,259 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 00:47:30,266 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 00:47:46,433 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:47:46,453 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:47:46,460 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:47:46,466 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:47:56,179 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:47:56,184 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:47:56,299 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 00:47:56,305 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 00:50:50,436 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:50:50,452 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:50:50,477 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:50:50,486 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:50:53,167 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:50:53,174 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:50:53,303 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:50:53,308 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 00:52:01,433 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 00:52:01,439 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 00:52:01,482 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 00:52:01,487 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 00:52:05,552 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 00:52:05,557 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 00:52:05,664 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 00:52:05,669 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 00:57:02,716 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 00:57:02,722 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 00:57:02,828 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 00:57:02,836 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 00:57:10,675 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 00:57:10,684 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 00:57:10,741 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 00:57:10,747 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 01:22:06,418 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 01:22:06,429 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 01:22:06,436 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 01:22:06,441 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 01:30:02,877 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 01:30:02,887 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 01:30:02,894 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 01:30:02,900 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 01:30:02,985 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 01:30:02,995 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 01:30:03,000 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 01:30:03,006 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 01:30:57,693 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 01:30:57,699 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 01:30:57,710 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 01:30:57,717 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 01:31:42,846 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 01:31:42,895 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 01:31:42,904 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 01:31:42,910 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 01:31:46,700 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 01:31:46,708 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 01:31:46,753 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 01:31:46,790 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 01:32:26,604 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 01:32:26,631 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 01:32:26,654 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 01:32:26,683 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 01:33:19,098 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 01:33:19,123 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 01:33:19,136 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 01:33:19,142 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 01:34:13,431 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 01:34:13,436 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 01:34:13,448 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 01:34:13,472 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 01:34:28,400 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 01:34:28,405 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 01:34:28,414 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 01:34:28,419 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 01:35:11,936 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 01:35:11,943 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 01:35:11,950 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 01:35:11,956 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 01:35:55,541 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 01:35:55,548 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 01:35:55,594 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 01:35:55,600 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 01:36:06,763 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 01:36:06,773 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 01:36:06,798 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 01:36:06,819 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 01:36:59,478 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 01:36:59,488 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 01:36:59,505 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 01:36:59,510 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 01:37:53,672 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 01:37:53,677 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 01:37:53,690 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 01:37:53,695 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 01:38:37,411 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 01:38:37,416 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 01:38:37,423 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 01:38:37,429 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 01:39:18,411 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 01:39:18,411 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 01:39:18,427 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 01:39:18,427 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 01:40:02,399 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 01:40:02,404 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 01:40:02,411 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 01:40:02,416 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 01:40:37,421 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 01:40:37,429 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 01:40:37,436 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 01:40:37,444 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 01:40:39,940 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 01:40:39,952 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 01:40:39,962 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 01:40:39,965 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 01:41:10,317 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 01:41:10,322 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 01:41:10,328 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 01:41:10,333 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 01:41:18,213 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 01:41:18,218 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 01:41:18,230 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 01:41:18,235 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 01:41:44,351 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 01:41:44,357 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 01:41:44,370 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 01:41:44,377 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 01:42:06,201 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 01:42:06,206 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 01:42:06,214 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 01:42:06,218 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 01:42:14,637 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 01:42:14,642 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 01:42:14,648 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 01:42:14,656 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 01:42:42,565 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 01:42:42,574 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 01:42:42,579 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 01:42:42,584 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 01:43:38,137 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 01:43:38,146 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 01:43:38,163 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 01:43:38,171 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 01:43:56,874 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 01:43:56,883 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 01:43:56,890 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 01:43:56,896 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 01:47:07,277 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 01:47:07,303 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 01:58:33,757 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 01:58:33,782 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 01:58:33,788 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 01:58:33,798 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 01:59:37,153 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 01:59:37,162 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 01:59:37,168 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 01:59:37,174 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 02:00:28,358 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 02:00:28,363 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 02:00:28,367 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 02:00:28,375 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 02:00:42,791 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 02:00:42,798 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 02:00:42,805 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 02:00:42,808 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 02:01:12,047 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 02:01:12,053 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 02:01:12,059 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 02:01:12,063 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 02:01:19,081 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 02:01:19,088 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 02:01:19,094 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 02:01:19,098 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 10:28:21,276 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 17.0.3.1 on YUSA with PID 3144 (C:\Users\yusai\Desktop\spring\target\classes started by yusai in C:\Users\yusai\Desktop\spring)
+2022-06-16 10:28:21,283 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-16 10:28:21,285 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-16 10:28:42,734 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 22.937 seconds (JVM running for 24.786)
+2022-06-16 10:31:05,006 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 17.0.3.1 on YUSA with PID 2540 (C:\Users\yusai\Desktop\spring\target\classes started by yusai in C:\Users\yusai\Desktop\spring)
+2022-06-16 10:31:05,017 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-16 10:31:05,020 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-16 10:31:16,838 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 12.842 seconds (JVM running for 14.085)
+2022-06-16 10:31:17,264 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 10:31:17,823 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 10:31:17,835 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 10:31:17,858 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 10:31:18,111 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 10:31:18,120 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 10:31:18,382 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 10:31:18,398 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 10:31:18,409 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 10:31:18,422 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 10:31:23,953 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 10:31:23,965 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 10:31:23,986 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 10:31:23,999 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 10:39:55,144 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 10:39:55,155 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 10:39:55,183 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 10:39:55,192 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 10:39:55,203 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 10:39:55,214 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 10:39:55,222 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 10:39:55,229 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 10:52:38,983 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 10:52:38,992 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 10:52:39,026 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 10:52:39,034 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 10:52:40,128 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 10:52:40,137 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 10:52:40,145 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 10:52:40,155 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 10:54:32,162 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 10:54:32,175 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 10:54:32,182 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 10:54:32,190 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 10:54:32,196 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 10:54:32,203 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 10:54:32,208 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 10:54:32,215 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 10:58:08,283 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 10:58:08,292 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 10:58:08,301 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 10:58:08,309 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 10:58:08,330 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 10:58:08,339 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 10:58:08,363 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 10:58:08,371 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 10:58:46,222 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 10:58:46,229 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 10:58:46,282 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 10:58:46,292 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 10:58:46,333 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 10:58:46,344 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 10:58:46,372 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 10:58:46,378 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 11:01:01,139 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 11:01:01,163 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 11:01:01,171 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 11:01:01,178 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 11:01:01,183 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 11:01:01,189 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 11:01:01,194 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 11:01:01,201 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 11:01:13,134 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 11:01:13,153 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 11:01:13,172 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 11:01:13,179 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 11:01:13,216 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 11:01:13,223 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 11:01:13,230 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 11:01:13,237 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 11:01:22,167 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 11:01:22,175 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 11:01:22,189 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 11:01:22,201 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 11:01:22,231 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 11:01:22,237 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 11:01:22,250 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 11:01:22,255 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 11:22:44,638 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 11:22:44,646 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 11:22:44,654 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 11:22:44,660 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 11:22:45,137 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 11:22:45,144 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 11:22:45,152 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 11:22:45,160 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 11:22:50,000 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 11:22:50,008 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 11:22:50,021 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 11:22:50,026 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 11:23:36,961 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 11:23:36,973 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 11:23:36,980 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 11:23:36,987 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 11:28:01,378 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 11:28:01,384 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 11:28:08,977 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 11:28:08,991 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 11:28:11,865 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 11:28:11,877 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 11:28:11,884 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 11:28:11,894 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 11:31:07,901 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 11:31:07,919 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 11:31:07,935 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 11:31:07,941 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 11:37:19,605 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 11:37:19,619 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 11:37:19,637 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 11:37:19,651 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 11:37:27,734 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 11:37:27,742 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 11:37:27,760 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 11:37:27,768 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 11:38:01,915 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 11:38:01,920 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 11:38:01,935 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 11:38:01,945 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 11:38:04,274 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 11:38:04,286 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 11:38:06,905 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 11:38:06,913 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 11:38:06,918 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 11:38:06,923 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 11:42:10,050 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 11:42:10,056 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 11:42:10,067 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 11:42:10,071 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 11:46:37,594 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 11:46:37,609 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 11:46:37,649 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 11:46:37,657 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 11:47:05,753 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 11:47:05,760 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 11:47:05,776 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 11:47:05,783 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 11:48:25,590 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 11:48:25,599 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 11:48:25,616 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 11:48:25,621 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 11:53:59,544 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 11:53:59,553 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 11:53:59,571 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 11:53:59,576 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 11:54:23,589 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 11:54:23,599 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 11:54:23,615 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 11:54:23,622 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 11:54:55,142 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 11:54:55,148 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 11:54:55,158 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 11:54:55,167 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 11:55:48,197 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 11:55:48,213 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 11:55:48,224 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 11:55:48,230 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 11:56:16,813 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 11:56:16,819 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 11:56:16,827 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 11:56:16,835 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 12:04:38,806 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 12:04:38,823 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 12:04:38,832 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 12:04:38,841 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 12:04:50,727 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 12:04:50,736 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 12:04:50,749 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 12:04:50,755 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 12:19:14,669 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 12:19:14,682 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 12:19:14,733 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 12:19:14,742 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 12:25:00,551 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 12:25:00,559 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 12:25:00,624 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 12:25:00,629 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 12:27:55,794 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 12:27:55,802 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 12:27:55,834 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 12:27:55,844 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 12:28:52,358 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 12:28:52,374 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 12:28:52,424 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 12:28:52,430 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 12:29:43,445 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 12:29:43,461 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 12:29:43,507 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 12:29:43,520 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 12:33:22,247 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 12:33:22,264 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 12:33:22,345 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 12:33:22,351 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 12:41:40,168 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 12:41:40,175 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 12:41:40,201 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 12:41:40,207 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 12:43:01,169 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 12:43:01,188 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 12:43:01,272 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 12:43:01,279 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 12:44:39,267 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 12:44:39,273 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 12:44:39,303 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 12:44:39,312 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 12:44:48,810 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 12:44:48,825 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 12:44:48,832 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 12:44:48,842 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 12:45:16,973 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 12:45:16,979 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 12:45:16,987 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 12:45:16,994 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 12:56:02,130 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 12:56:02,137 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 12:56:02,151 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 12:56:02,160 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 12:59:13,611 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 12:59:13,627 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 12:59:13,636 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 12:59:13,644 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:00:04,832 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:00:04,848 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:00:04,857 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:00:04,868 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:00:27,524 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:00:27,531 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:00:27,539 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:00:27,544 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:01:35,712 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:01:35,718 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:01:35,734 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 13:01:35,741 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 13:01:42,973 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:01:42,983 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:01:43,000 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:01:43,005 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:02:01,029 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:02:01,036 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:02:01,056 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:02:01,065 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:02:24,363 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:02:24,369 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:02:24,379 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:02:24,383 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:06:07,576 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:06:07,585 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:06:07,594 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:06:07,603 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:08:04,619 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:08:04,690 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:08:04,732 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:08:04,738 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:09:33,183 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:09:33,193 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:09:33,211 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:09:33,223 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:09:34,594 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:09:34,604 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:09:34,665 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:09:34,693 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:22:37,430 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:22:37,435 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:22:37,443 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 13:22:37,446 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 13:22:55,612 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:22:55,622 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:22:55,729 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:22:55,736 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:25:31,752 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:25:31,765 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:25:31,805 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:25:31,812 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:28:32,291 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:28:32,303 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:28:32,397 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:28:32,404 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:28:37,656 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 13:28:37,662 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 13:28:37,692 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:28:37,704 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:30:59,222 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:30:59,239 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:30:59,300 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:30:59,308 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:32:42,754 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:32:42,767 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:32:42,810 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:32:42,815 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:32:45,225 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:32:45,235 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:32:45,246 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:32:45,252 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:34:17,125 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:34:17,132 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:34:17,139 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:34:17,145 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:34:20,211 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:34:20,548 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:34:20,558 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:34:20,580 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:35:33,590 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:35:33,647 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:35:33,714 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:35:33,722 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:35:53,202 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:35:53,207 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:35:53,215 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:35:53,221 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:37:55,329 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:37:55,338 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:37:55,347 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:37:55,351 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:38:56,138 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:38:56,158 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:38:56,174 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:38:56,174 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:40:46,141 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:40:46,146 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:40:46,155 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:40:46,160 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:40:50,304 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:40:50,310 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:40:50,380 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 13:40:50,389 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 13:41:51,133 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:41:51,141 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:41:51,148 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:41:51,156 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:41:53,655 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:41:53,665 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:41:53,722 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:41:53,732 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:42:25,843 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:42:25,851 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:42:25,863 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:42:25,874 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:42:27,031 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:42:27,038 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:42:27,141 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:42:27,149 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:44:12,542 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:44:12,574 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:44:12,594 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:44:12,605 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:44:14,864 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:44:14,895 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:44:14,935 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:44:14,939 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:45:31,132 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:45:31,141 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:45:31,147 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:45:31,153 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:45:34,829 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:45:34,851 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:45:34,922 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:45:34,925 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:47:54,891 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:47:54,902 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:47:55,039 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:47:55,048 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:47:58,739 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:47:58,750 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:47:58,793 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:47:58,801 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:48:24,477 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:48:24,484 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:48:24,521 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:48:24,526 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:50:11,178 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:50:11,185 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:50:11,241 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:50:11,246 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:51:15,063 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:51:15,071 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:51:15,129 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:51:15,138 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:51:43,151 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:51:43,157 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:51:43,163 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:51:43,168 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:51:53,142 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:51:53,155 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:51:53,167 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:51:53,172 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:52:14,126 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:52:14,128 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:52:14,137 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:52:14,141 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:52:33,422 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:52:33,427 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:52:33,439 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 13:52:33,445 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 13:52:35,087 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:52:35,093 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:52:35,158 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:52:35,165 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:53:02,125 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:53:02,133 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:53:02,141 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:53:02,145 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:53:28,677 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:53:28,687 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:53:28,705 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:53:28,711 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:54:13,402 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:54:13,409 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:54:13,464 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:54:13,468 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:54:29,725 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:54:29,733 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:54:29,798 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 13:54:29,802 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 13:55:16,301 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:55:16,312 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:55:16,368 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:55:16,372 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:56:08,999 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:56:09,005 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:56:09,064 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:56:09,067 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:56:27,146 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:56:27,152 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:56:27,158 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:56:27,164 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:56:47,675 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:56:47,683 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:56:47,710 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:56:47,717 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 13:56:55,212 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 13:56:55,223 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
+2022-06-16 13:56:55,281 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 13:56:55,286 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 13:57:15,409 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 13:57:15,418 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 13:57:15,496 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 13:57:15,506 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 13:57:51,772 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 13:57:51,789 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 13:57:51,839 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 13:57:51,843 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 13:58:20,243 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 13:58:20,260 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 13:58:20,338 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 13:58:20,342 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 13:58:46,189 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 13:58:46,206 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 13:58:46,246 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 13:58:46,251 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 14:00:25,118 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Service Called: Get all products
+2022-06-16 14:00:25,135 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-8] Products found
+2022-06-16 14:00:25,140 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Service Called: Get all products
+2022-06-16 14:00:25,146 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-9] Products found
+2022-06-16 14:00:30,623 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Service Called: Get all products
+2022-06-16 14:00:30,631 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-10] Products found
+2022-06-16 14:00:30,718 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Service Called: Get all products
+2022-06-16 14:00:30,725 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-2] Products found
+2022-06-16 14:00:42,359 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Service Called: Get all products
+2022-06-16 14:00:42,371 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-1] Products found
+2022-06-16 14:00:42,420 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Service Called: Get all products
+2022-06-16 14:00:42,425 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-3] Products found
+2022-06-16 14:01:27,973 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Service Called: Get all products
+2022-06-16 14:01:27,979 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-4] Products found
+2022-06-16 14:01:28,001 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Service Called: Get all products
+2022-06-16 14:01:28,005 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-5] Products found
+2022-06-16 14:01:32,553 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Service Called: Get all products
+2022-06-16 14:01:32,563 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-6] Products found
+2022-06-16 14:01:32,632 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Service Called: Get all products
+2022-06-16 14:01:32,636 INFO com.yusai.spring.product.ProductService [http-nio-8080-exec-7] Products found
